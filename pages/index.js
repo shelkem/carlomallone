@@ -22,12 +22,7 @@ export default () => (
           <li>+39 349 8126923</li>
           <li><a href="mailto:carlo.mallone@gmail.com">carlo.mallone@gmail.com</a></li>
         </ul>
-        <p>I am an Italian Senior Software Engineer with <strong>8 years</strong> of experience in both
-          <strong>back-end</strong> and <strong>front-end</strong> web development. I am a team player and love to write
-            good code that can make a difference. I am goal driven, detail oriented employee, always trying to put the
-          <strong>users first</strong>.I like to be involved in both the <strong>technical</strong> and
-          <strong>business</strong> side of the projects I join, to better understand needs and opportunities, and deliver
-          the best work possible.</p>
+        <p>I am an Italian Senior Software Engineer with <strong>8 years</strong> of experience in both <strong>back-end</strong> and <strong>front-end</strong> web development. I am a team player and love to write good code that can make a difference. I aim to be a goal driven, detail oriented employee, always trying to put the <strong>users first</strong>. I like being involved in both the <strong>technical</strong> and <strong>business</strong> side of the projects I join, to better understand needs and opportunities, and deliver the best work possible.</p>
       </div>
       <div id="skills">
         <h3>Skills &amp; Expertise</h3>
