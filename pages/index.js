@@ -8,6 +8,7 @@ export default () => (
           <li title="HTML5"><i class="fab fa-html5"></i></li>
           <li title="CSS3"><i class="fab fa-css3-alt"></i></li>
           <li title="JavaScript"><i class="fab fa-js"></i></li>
+          <li title="TypeScript"><i class="fas fa-code"></i></li>
           <li title="Node.js"><i class="fab fa-node"></i></li>
           <li title="React.js + Redux + Sagas"><i class="fab fa-react"></i></li>
           <li title="Sass"><i class="fab fa-sass"></i></li>
@@ -16,13 +17,13 @@ export default () => (
           <li title="GIT"><i class="fab fa-git"></i></li>
         </ul>
         <h1><span id="carlo">Carlo&nbsp;</span><span id="mallone">Mallone</span></h1>
-        <h2>Full-Stack Web Developer</h2>
+        <h2>Front-End Team Lead | Full-Stack Web Developer</h2>
         <ul class="horizontal-list" id="contacts">
           <li><a href="https://www.linkedin.com/in/carlomallone/" target="_blank">linkedin.com/in/carlomallone/</a></li>
           <li>+39 349 8126923</li>
-          <li><a href="mailto:carlo.mallone@gmail.com">carlo.mallone@gmail.com</a></li>
+          <li><a href="mailto:carlo.mallone@hey.com">carlo.mallone@hey.com</a></li>
         </ul>
-        <p>I am an Italian Senior Software Engineer with <strong>8 years</strong> of experience in both <strong>back-end</strong> and <strong>front-end</strong> web development. I am a team player and love to write good code that can make a difference. I aim to be a goal driven, detail oriented employee, always trying to put the <strong>users first</strong>. I like being involved in both the <strong>technical</strong> and <strong>business</strong> side of the projects I join, to better understand needs and opportunities, and deliver the best work possible.</p>
+        <p>I am an Italian Senior Software Engineer with <strong>{new Date().getFullYear()-2010} years</strong> of experience in both <strong>back-end</strong> and <strong>front-end</strong> web development. I am a team player and love to write good code that can make a difference. I aim to be a goal driven, detail oriented employee, always trying to put the <strong>users first</strong>. I like being involved in both the <strong>technical</strong> and <strong>business</strong> side of the projects I join, to better understand needs and opportunities, and deliver the best work possible.</p>
       </div>
       <div id="skills">
         <h3>Skills &amp; Expertise</h3>
@@ -51,8 +52,8 @@ export default () => (
           <div class="col-1-2">
             <ul class="bullet-list">
               <li>React.js + Redux + Sagas</li>
-              <li>HTML + CSS + JavaScript</li>
-              <li>Truffle + Solidity (ETH Blockchain)</li>
+              <li>Angular</li>
+              <li>HTML + CSS + TypeScript</li>
               <li>Webpack, Grunt, Gulp</li>
             </ul>
           </div>
@@ -61,7 +62,7 @@ export default () => (
               <li>Ruby on Rails</li>
               <li>Jest + Sinon + Chai</li>
               <li>MongoDB, Redis</li>
-              <li>PostgreSQL, MySQL</li>
+              <li>Truffle + Solidity (ETH Blockchain)</li>
             </ul>
           </div>
         </div>
